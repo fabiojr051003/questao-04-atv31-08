@@ -1,0 +1,20 @@
+h1,h2,h3,.primeiro-h4,.segundo-h4 {
+    font-family: Arial;
+    }
+body {
+    background-color: #f5f5dc;
+    }
+h1 { 
+    color: brown;
+    text-align: left;
+    }
+h2 {
+    color: #006400;
+    text-align: left;
+    }
+.primeiro-h4 {
+    text-align: left;
+    }
+.segundo-h4{
+    text-align: center;
+}
